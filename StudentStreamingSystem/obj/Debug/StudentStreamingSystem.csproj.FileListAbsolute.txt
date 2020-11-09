@@ -1,0 +1,606 @@
+D:\First Project\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+D:\First Project\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+D:\First Project\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+D:\First Project\StudentStreamingSystem\bin\roslyn\csc.exe
+D:\First Project\StudentStreamingSystem\bin\roslyn\csc.exe.config
+D:\First Project\StudentStreamingSystem\bin\roslyn\csc.rsp
+D:\First Project\StudentStreamingSystem\bin\roslyn\csi.exe
+D:\First Project\StudentStreamingSystem\bin\roslyn\csi.exe.config
+D:\First Project\StudentStreamingSystem\bin\roslyn\csi.rsp
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\First Project\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Console.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\First Project\StudentStreamingSystem\bin\roslyn\vbc.exe
+D:\First Project\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+D:\First Project\StudentStreamingSystem\bin\roslyn\vbc.rsp
+D:\First Project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+D:\First Project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\First Project\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+D:\First Project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\First Project\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\First Project\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.Helpers.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.Mvc.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.Optimization.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.Razor.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+D:\First Project\StudentStreamingSystem\bin\WebGrease.dll
+D:\First Project\StudentStreamingSystem\bin\System.Web.Helpers.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.Mvc.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.Optimization.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.Razor.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+D:\First Project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+D:\First Project\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+D:\First Project\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+D:\First Project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\First Project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojAssemblyReference.cache
+D:\First Project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csproj.CoreCompileInputs.cache
+D:\First Project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csproj.CopyComplete
+D:\First Project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+D:\First Project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+D:\First Project\StudentStreamingSystem\bin\EntityFramework.dll
+D:\First Project\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+D:\First Project\StudentStreamingSystem\bin\EntityFramework.xml
+D:\First Project\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+D:\First Project\StudentStreamingSystem\bin\LinqToExcel.dll
+D:\First Project\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+D:\First Project\StudentStreamingSystem\bin\Remotion.dll
+D:\First Project\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+D:\First Project\StudentStreamingSystem\bin\LinqToExcel.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.exe
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.exe.config
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.rsp
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.exe
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.exe.config
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.rsp
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Console.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.exe
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.rsp
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\LinqToExcel.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Helpers.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Mvc.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Optimization.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Razor.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\WebGrease.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\LinqToExcel.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Helpers.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Mvc.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Optimization.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Razor.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+E:\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+E:\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+E:\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojResolveAssemblyReference.cache
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.exe
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.exe.config
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csc.rsp
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.exe
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.exe.config
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\csi.rsp
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Console.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.exe
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\vbc.rsp
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\LinqToExcel.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Helpers.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Mvc.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Optimization.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Razor.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\WebGrease.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\LinqToExcel.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Helpers.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Mvc.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Optimization.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.Razor.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojResolveAssemblyReference.cache
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+E:\Copy\StudentStreamingSystem\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csc.exe
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csc.exe.config
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csc.rsp
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csi.exe
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csi.exe.config
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\csi.rsp
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Console.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\vbc.exe
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\vbc.rsp
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\EntityFramework.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\LinqToExcel.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Remotion.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Helpers.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Mvc.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Optimization.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Razor.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\WebGrease.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\EntityFramework.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\LinqToExcel.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Helpers.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Mvc.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Optimization.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.Razor.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojResolveAssemblyReference.cache
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+C:\Users\PC-003\Downloads\Client\Client\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+E:\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+E:\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+E:\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+E:\project\project\StudentStreamingSystem\bin\roslyn\csc.exe
+E:\project\project\StudentStreamingSystem\bin\roslyn\csc.exe.config
+E:\project\project\StudentStreamingSystem\bin\roslyn\csc.rsp
+E:\project\project\StudentStreamingSystem\bin\roslyn\csi.exe
+E:\project\project\StudentStreamingSystem\bin\roslyn\csi.exe.config
+E:\project\project\StudentStreamingSystem\bin\roslyn\csi.rsp
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Console.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe
+E:\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+E:\project\project\StudentStreamingSystem\bin\roslyn\vbc.rsp
+E:\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+E:\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+E:\project\project\StudentStreamingSystem\bin\EntityFramework.dll
+E:\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+E:\project\project\StudentStreamingSystem\bin\LinqToExcel.dll
+E:\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project\project\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+E:\project\project\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+E:\project\project\StudentStreamingSystem\bin\Remotion.dll
+E:\project\project\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.Helpers.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.Mvc.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.Optimization.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.Razor.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.dll
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+E:\project\project\StudentStreamingSystem\bin\WebGrease.dll
+E:\project\project\StudentStreamingSystem\bin\EntityFramework.xml
+E:\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+E:\project\project\StudentStreamingSystem\bin\LinqToExcel.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.Helpers.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.Mvc.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.Optimization.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.Razor.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+E:\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+E:\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+E:\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+E:\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojResolveAssemblyReference.cache
+E:\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+E:\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csc.exe
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csc.exe.config
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csc.rsp
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csi.exe
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csi.exe.config
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\csi.rsp
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Console.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\vbc.rsp
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\EntityFramework.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\LinqToExcel.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Remotion.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Helpers.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Mvc.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Optimization.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Razor.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\WebGrease.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\EntityFramework.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\LinqToExcel.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Helpers.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Mvc.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Optimization.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.Razor.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+C:\Users\Chishti\Desktop\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll.config
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\StudentStreamingSystem.pdb
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csc.exe
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csc.exe.config
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csc.rsp
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csi.exe
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csi.exe.config
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\csi.rsp
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Console.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\vbc.exe.config
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\vbc.rsp
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\EntityFramework.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\LinqToExcel.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Remotion.Data.Linq.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Remotion.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Remotion.Interfaces.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Helpers.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Mvc.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Optimization.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Razor.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\WebGrease.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\EntityFramework.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\LinqToExcel.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Helpers.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Mvc.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Optimization.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.Razor.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Newtonsoft.Json.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csprojAssemblyReference.cache
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.csproj.CopyComplete
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.dll
+C:\Users\Mustaqeem\Desktop\10-11-2020\project\project\project\StudentStreamingSystem\obj\Debug\StudentStreamingSystem.pdb
